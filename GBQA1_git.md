@@ -79,5 +79,5 @@
     git branch -d <branch_name>
 
     
-
+## Слияние веток
     
